@@ -24,13 +24,15 @@ status-website:
   cname: upptime.xlorpaste.cn
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://xlorpaste.cn/favicon.ico
   name: XLorPaste Status
   introTitle: XLorPaste Status Monitor
   introMessage: Use **real-time** data from our [Github repository](https://github.com/koj-co/upptime) powered by open-source uptime monitor **Upptime** and **GitHub**.
   navbar:
     - title: Status
       href: /
+    - title: XLorPaste
+      href: https://xlorpaste.cn/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

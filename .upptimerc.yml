@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: XLorPaste Status
   introTitle: XLorPaste Status Monitor
-  introMessage: Use **real-time** data from our [Github repository](https://github.com/koj-co/upptime) powered by open-source uptime monitor **Upptime** and GitHub.
+  introMessage: Use **real-time** data from our [Github repository](https://github.com/koj-co/upptime) powered by open-source uptime monitor **Upptime** and **GitHub**.
   navbar:
     - title: Status
       href: /

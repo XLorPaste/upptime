@@ -5,7 +5,7 @@
     "slug": "x-lor-paste",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1291
+    "time": 1269
   },
   {
     "name": "XLorPaste API",
@@ -13,6 +13,6 @@
     "slug": "x-lor-paste-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3513
+    "time": 3130
   }
 ]

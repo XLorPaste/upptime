@@ -19,16 +19,16 @@
     "name": "XLorPaste API",
     "url": "https://api.xlorpaste.cn/",
     "slug": "x-lor-paste-api",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
-    "time": 1969,
-    "timeDay": 1337,
-    "timeWeek": 1335,
-    "timeMonth": 1969,
-    "timeYear": 1969
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 2019,
+    "timeDay": 2104,
+    "timeWeek": 1463,
+    "timeMonth": 2019,
+    "timeYear": 2019
   }
 ]

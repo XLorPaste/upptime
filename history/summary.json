@@ -4,9 +4,9 @@
     "url": "https://xlorpaste.cn/",
     "icon": "https://favicons.githubusercontent.com/xlorpaste.cn",
     "slug": "x-lor-paste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 972,
     "timeMonth": 1036,
     "timeYear": 1036,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-22": 0
+    }
   },
   {
     "name": "XLorPaste API",
@@ -23,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/api.xlorpaste.cn",
     "slug": "x-lor-paste-api",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 1675,
     "timeDay": 1384,
-    "timeWeek": 1388,
+    "timeWeek": 1340,
     "timeMonth": 1675,
     "timeYear": 1675,
     "dailyMinutesDown": {

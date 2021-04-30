@@ -27,7 +27,7 @@
     "url": "https://api.xlorpaste.cn/",
     "icon": "https://favicons.githubusercontent.com/api.xlorpaste.cn",
     "slug": "x-lor-paste-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "98.60%",
     "uptimeWeek": "99.11%",
@@ -39,6 +39,7 @@
     "timeMonth": 1417,
     "timeYear": 1589,
     "dailyMinutesDown": {
+      "2021-04-30": 0,
       "2021-04-29": 20,
       "2021-04-25": 21,
       "2021-04-24": 31,

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 1235,
-    "timeDay": 893,
-    "timeWeek": 1180,
-    "timeMonth": 1669,
-    "timeYear": 1235,
+    "time": 1234,
+    "timeDay": 654,
+    "timeWeek": 984,
+    "timeMonth": 1654,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2021-03-02": 8,
       "2021-02-05": 8,
@@ -28,15 +28,15 @@
     "icon": "https://favicons.githubusercontent.com/api.xlorpaste.cn",
     "slug": "x-lor-paste-api",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
-    "time": 1458,
-    "timeDay": 1410,
-    "timeWeek": 1286,
-    "timeMonth": 1239,
+    "time": 1457,
+    "timeDay": 1082,
+    "timeWeek": 1233,
+    "timeMonth": 1233,
     "timeYear": 1434,
     "dailyMinutesDown": {
       "2021-10-10": 755,
@@ -73,8 +73,7 @@
       "2020-12-07": 22,
       "2020-12-05": 8,
       "2020-12-02": 16,
-      "2020-12-01": 97,
-      "2020-11-30": 15
+      "2020-12-01": 97
     }
   }
 ]

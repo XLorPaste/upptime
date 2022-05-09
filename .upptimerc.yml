@@ -8,6 +8,8 @@ sites:
     url: https://xlorpaste.cn/
   - name: XLorPaste API
     url: https://api.xlorpaste.cn/
+  - name: XLorPaste View Code API
+    url: https://api.xlorpaste.cn/towqab
 #   - name: Google
 #     url: https://www.google.com
 #   - name: Wikipedia

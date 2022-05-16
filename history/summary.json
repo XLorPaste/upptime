@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.92%",
-    "time": 977,
-    "timeDay": 177,
-    "timeWeek": 307,
+    "time": 976,
+    "timeDay": 332,
+    "timeWeek": 314,
     "timeMonth": 318,
-    "timeYear": 863,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2021-12-24": 463,
       "2021-12-23": 1440,
@@ -47,16 +47,16 @@
     "icon": "https://favicons.githubusercontent.com/api.xlorpaste.cn",
     "slug": "x-lor-paste-api",
     "status": "up",
-    "uptime": "94.44%",
+    "uptime": "94.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.96%",
-    "time": 1093,
-    "timeDay": 342,
-    "timeWeek": 199,
-    "timeMonth": 225,
-    "timeYear": 888,
+    "time": 1090,
+    "timeDay": 76,
+    "timeWeek": 198,
+    "timeMonth": 222,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2021-12-24": 455,
       "2021-12-23": 1440,
@@ -94,8 +94,7 @@
       "2021-08-17": 17,
       "2021-07-05": 18,
       "2021-06-13": 18,
-      "2021-05-22": 33,
-      "2021-05-16": 31
+      "2021-05-22": 33
     }
   },
   {
@@ -109,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 117,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 138,
+    "timeDay": 150,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]

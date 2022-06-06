@@ -47,18 +47,19 @@
     "url": "https://api.xlorpaste.cn/",
     "icon": "https://favicons.githubusercontent.com/api.xlorpaste.cn",
     "slug": "x-lor-paste-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.98%",
-    "time": 1040,
+    "time": 1039,
     "timeDay": 155,
     "timeWeek": 226,
     "timeMonth": 218,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2022-06-06": 0,
       "2021-12-24": 455,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
@@ -102,9 +103,9 @@
     "url": "https://api.xlorpaste.cn/towqab",
     "icon": "https://favicons.githubusercontent.com/api.xlorpaste.cn",
     "slug": "x-lor-paste-view-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,6 +114,8 @@
     "timeWeek": 166,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-06": 0
+    }
   }
 ]

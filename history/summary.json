@@ -50,18 +50,20 @@
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://favicons.githubusercontent.com/en.xlorpaste.cn",
     "slug": "x-lor-paste-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 378,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
-    "dailyMinutesDown": {}
+    "time": 504,
+    "timeDay": 466,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "XLorPaste API",

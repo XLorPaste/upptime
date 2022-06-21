@@ -50,17 +50,17 @@
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://favicons.githubusercontent.com/en.xlorpaste.cn",
     "slug": "x-lor-paste-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "98.89%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.29%",
-    "time": 475,
-    "timeDay": 429,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "time": 472,
+    "timeDay": 436,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2022-06-21": 16
     }

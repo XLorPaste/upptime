@@ -12,6 +12,8 @@ sites:
     url: https://api.xlorpaste.cn/
   - name: XLorPaste View Code API
     url: https://api.xlorpaste.cn/towqab
+  - name: AnimePaste
+    url: https://anime.xlorpaste.cn/
 #   - name: Google
 #     url: https://www.google.com
 #   - name: Wikipedia
@@ -37,6 +39,8 @@ status-website:
       href: /
     - title: XLorPaste
       href: https://xlorpaste.cn/
+    - title: AnimePaste
+      href: https://anime.xlorpaste.cn/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

@@ -75,7 +75,7 @@
     "status": "down",
     "uptime": "94.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.49%",
+    "uptimeWeek": "24.48%",
     "uptimeMonth": "82.62%",
     "uptimeYear": "90.53%",
     "time": 934,
@@ -136,7 +136,7 @@
     "status": "down",
     "uptime": "90.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.49%",
+    "uptimeWeek": "24.48%",
     "uptimeMonth": "82.62%",
     "uptimeYear": "90.87%",
     "time": 152,
@@ -161,18 +161,18 @@
     "icon": "https://favicons.githubusercontent.com/anime.xlorpaste.cn",
     "slug": "anime-paste",
     "status": "down",
-    "uptime": "68.36%",
-    "uptimeDay": "68.36%",
-    "uptimeWeek": "68.36%",
-    "uptimeMonth": "68.36%",
-    "uptimeYear": "68.36%",
+    "uptime": "52.82%",
+    "uptimeDay": "52.82%",
+    "uptimeWeek": "52.82%",
+    "uptimeMonth": "52.82%",
+    "uptimeYear": "52.82%",
     "time": 10945,
     "timeDay": 10945,
     "timeWeek": 10945,
     "timeMonth": 10945,
     "timeYear": 10945,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-06": 1
     }
   }
 ]

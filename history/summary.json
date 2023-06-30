@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1285,
-    "timeDay": 1105,
-    "timeWeek": 1360,
-    "timeMonth": 1211,
-    "timeYear": 1492,
+    "time": 1288,
+    "timeDay": 1195,
+    "timeWeek": 1331,
+    "timeMonth": 1206,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2023-03-20": 20,
       "2022-12-09": 29,
@@ -34,13 +34,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 617,
-    "timeDay": 553,
-    "timeWeek": 681,
-    "timeMonth": 663,
-    "timeYear": 623,
+    "timeDay": 782,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-07-01": 43,
-      "2022-06-30": 116
+      "2022-07-01": 43
     }
   },
   {
@@ -49,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-api",
     "status": "up",
-    "uptime": "94.08%",
+    "uptime": "94.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.84%",
     "time": 202,
-    "timeDay": 151,
+    "timeDay": 149,
     "timeWeek": 145,
-    "timeMonth": 139,
-    "timeYear": 178,
+    "timeMonth": 135,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2022-07-27": 765,
       "2022-07-26": 1440,
@@ -86,8 +85,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 749,
-      "2022-06-30": 116
+      "2022-07-01": 749
     }
   },
   {
@@ -96,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-view-code-api",
     "status": "up",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.84%",
     "time": 152,
     "timeDay": 194,
-    "timeWeek": 190,
-    "timeMonth": 124,
+    "timeWeek": 177,
+    "timeMonth": 128,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2022-07-27": 765,
@@ -133,8 +131,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 749,
-      "2022-06-30": 116
+      "2022-07-01": 749
     }
   },
   {
@@ -149,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 761,
-    "timeWeek": 1145,
-    "timeMonth": 677,
+    "timeDay": 605,
+    "timeWeek": 1122,
+    "timeMonth": 683,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2022-07-06": 23

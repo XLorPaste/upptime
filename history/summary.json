@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1313,
-    "timeDay": 2156,
-    "timeWeek": 1426,
-    "timeMonth": 1275,
-    "timeYear": 1477,
+    "time": 1314,
+    "timeDay": 877,
+    "timeWeek": 1291,
+    "timeMonth": 1271,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2023-03-20": 20,
       "2022-12-09": 29,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
-    "timeDay": 429,
-    "timeWeek": 642,
-    "timeMonth": 616,
-    "timeYear": 628,
+    "timeDay": 546,
+    "timeWeek": 668,
+    "timeMonth": 620,
+    "timeYear": 629,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +50,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.48%",
+    "uptimeYear": "95.76%",
     "time": 199,
-    "timeDay": 110,
-    "timeWeek": 138,
-    "timeMonth": 142,
+    "timeDay": 89,
+    "timeWeek": 115,
+    "timeMonth": 141,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-07-27": 765,
@@ -71,8 +71,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -81,15 +80,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-view-code-api",
     "status": "up",
-    "uptime": "93.88%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.48%",
+    "uptimeYear": "95.76%",
     "time": 151,
-    "timeDay": 216,
-    "timeWeek": 120,
-    "timeMonth": 129,
+    "timeDay": 153,
+    "timeWeek": 125,
+    "timeMonth": 128,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2022-07-27": 765,
@@ -106,8 +105,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -122,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
-    "timeDay": 271,
-    "timeWeek": 511,
-    "timeMonth": 677,
-    "timeYear": 643,
+    "timeDay": 577,
+    "timeWeek": 546,
+    "timeMonth": 683,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   }
 ]

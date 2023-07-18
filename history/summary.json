@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1325,
-    "timeDay": 798,
-    "timeWeek": 1319,
-    "timeMonth": 1273,
-    "timeYear": 1474,
+    "time": 1326,
+    "timeDay": 1155,
+    "timeWeek": 1176,
+    "timeMonth": 1272,
+    "timeYear": 1473,
     "dailyMinutesDown": {
       "2023-03-20": 20,
       "2022-12-09": 29,
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 708,
-    "timeWeek": 641,
-    "timeMonth": 662,
+    "time": 619,
+    "timeDay": 808,
+    "timeWeek": 695,
+    "timeMonth": 681,
     "timeYear": 631,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.13%",
+    "uptimeYear": "97.41%",
     "time": 198,
-    "timeDay": 114,
+    "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 134,
     "timeYear": 166,
@@ -65,8 +65,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -75,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-view-code-api",
     "status": "up",
-    "uptime": "93.97%",
+    "uptime": "93.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.13%",
-    "time": 152,
-    "timeDay": 306,
-    "timeWeek": 175,
-    "timeMonth": 141,
+    "uptimeYear": "97.41%",
+    "time": 151,
+    "timeDay": 114,
+    "timeWeek": 161,
+    "timeMonth": 143,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2022-07-27": 765,
@@ -94,8 +93,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -110,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 554,
-    "timeWeek": 556,
-    "timeMonth": 691,
+    "timeDay": 566,
+    "timeWeek": 598,
+    "timeMonth": 696,
     "timeYear": 644,
     "dailyMinutesDown": {}
   }

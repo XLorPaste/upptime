@@ -27,19 +27,19 @@
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/en.xlorpaste.cn.ico",
     "slug": "x-lor-paste-en",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 504,
-    "timeWeek": 611,
-    "timeMonth": 622,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 622,
+    "timeDay": 532,
+    "timeWeek": 609,
+    "timeMonth": 621,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 28
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://anime.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/anime.xlorpaste.cn.ico",
     "slug": "anime-paste",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 656,
-    "timeDay": 373,
-    "timeWeek": 546,
-    "timeMonth": 555,
+    "timeDay": 440,
+    "timeWeek": 549,
+    "timeMonth": 556,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 28
     }
   }
 ]

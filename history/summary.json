@@ -27,18 +27,20 @@
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/en.xlorpaste.cn.ico",
     "slug": "x-lor-paste-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 532,
-    "timeWeek": 631,
-    "timeMonth": 627,
+    "timeDay": 504,
+    "timeWeek": 611,
+    "timeMonth": 622,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "XLorPaste API",
@@ -64,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-view-code-api",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -81,17 +83,19 @@
     "url": "https://anime.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/anime.xlorpaste.cn.ico",
     "slug": "anime-paste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 456,
-    "timeWeek": 582,
-    "timeMonth": 564,
-    "timeYear": 650,
-    "dailyMinutesDown": {}
+    "time": 656,
+    "timeDay": 373,
+    "timeWeek": 546,
+    "timeMonth": 555,
+    "timeYear": 649,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]

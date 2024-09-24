@@ -46,27 +46,29 @@
     "url": "https://paste.cpany.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
+    "time": 130,
     "timeDay": 134,
     "timeWeek": 162,
     "timeMonth": 148,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   },
   {
     "name": "XLorPaste View Code API",
     "url": "https://paste.cpany.dev/towqab",
     "icon": "https://icons.duckduckgo.com/ip3/paste.cpany.dev.ico",
     "slug": "x-lor-paste-view-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +77,9 @@
     "timeWeek": 157,
     "timeMonth": 158,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   },
   {
     "name": "AnimePaste",

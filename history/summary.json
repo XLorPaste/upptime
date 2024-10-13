@@ -4,7 +4,7 @@
     "url": "https://xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/xlorpaste.cn.ico",
     "slug": "x-lor-paste",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1994,
     "timeYear": 1640,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-06-23": 17,
       "2024-01-10": 4
     }

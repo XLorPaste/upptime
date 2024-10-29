@@ -11,10 +11,10 @@
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.87%",
     "time": 1611,
-    "timeDay": 3069,
-    "timeWeek": 1927,
-    "timeMonth": 1799,
-    "timeYear": 1658,
+    "timeDay": 1352,
+    "timeWeek": 1906,
+    "timeMonth": 1781,
+    "timeYear": 1649,
     "dailyMinutesDown": {
       "2024-10-13": 669,
       "2024-06-23": 17,
@@ -32,14 +32,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 648,
-    "timeDay": 675,
-    "timeWeek": 655,
-    "timeMonth": 654,
+    "time": 647,
+    "timeDay": 469,
+    "timeWeek": 619,
+    "timeMonth": 643,
     "timeYear": 655,
-    "dailyMinutesDown": {
-      "2023-10-30": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XLorPaste API",
@@ -52,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 143,
-    "timeDay": 371,
-    "timeWeek": 297,
-    "timeMonth": 324,
+    "time": 144,
+    "timeDay": 246,
+    "timeWeek": 290,
+    "timeMonth": 323,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2024-09-25": 793,
@@ -73,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 136,
-    "timeDay": 127,
-    "timeWeek": 151,
+    "time": 137,
+    "timeDay": 216,
+    "timeWeek": 153,
     "timeMonth": 148,
-    "timeYear": 138,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2024-09-25": 793,
       "2024-09-24": 432
@@ -95,12 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 627,
-    "timeDay": 841,
-    "timeWeek": 618,
-    "timeMonth": 643,
-    "timeYear": 624,
-    "dailyMinutesDown": {
-      "2023-10-30": 28
-    }
+    "timeDay": 291,
+    "timeWeek": 589,
+    "timeMonth": 640,
+    "timeYear": 623,
+    "dailyMinutesDown": {}
   }
 ]

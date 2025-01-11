@@ -6,9 +6,9 @@
     "slug": "x-lor-paste",
     "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 1613,
     "timeDay": 1259,
@@ -16,7 +16,7 @@
     "timeMonth": 1530,
     "timeYear": 1639,
     "dailyMinutesDown": {
-      "2025-01-11": 0,
+      "2025-01-11": 19,
       "2024-10-13": 669,
       "2024-06-23": 17
     }

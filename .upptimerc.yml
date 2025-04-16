@@ -4,8 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: XLorPaste
-    url: https://xlorpaste.cn/
+#   - name: XLorPaste
+#     url: https://xlorpaste.cn/
   - name: XLorPaste EN
     url: https://en.xlorpaste.cn/
   - name: XLorPaste API

@@ -1,32 +1,5 @@
 [
   {
-    "name": "XLorPaste",
-    "url": "https://xlorpaste.cn/",
-    "icon": "https://icons.duckduckgo.com/ip3/xlorpaste.cn.ico",
-    "slug": "x-lor-paste",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "94.44%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "98.69%",
-    "time": 1652,
-    "timeDay": 1190,
-    "timeWeek": 1773,
-    "timeMonth": 1615,
-    "timeYear": 1698,
-    "dailyMinutesDown": {
-      "2025-04-16": 80,
-      "2025-01-15": 414,
-      "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1386,
-      "2024-10-13": 669,
-      "2024-06-23": 17
-    }
-  },
-  {
     "name": "XLorPaste EN",
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/en.xlorpaste.cn.ico",
@@ -38,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
-    "timeDay": 470,
-    "timeWeek": 615,
-    "timeMonth": 644,
+    "timeDay": 595,
+    "timeWeek": 628,
+    "timeMonth": 646,
     "timeYear": 665,
     "dailyMinutesDown": {}
   },
@@ -56,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 204,
-    "timeDay": 119,
-    "timeWeek": 253,
-    "timeMonth": 283,
+    "timeDay": 239,
+    "timeWeek": 266,
+    "timeMonth": 285,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-09-25": 793,
@@ -77,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 132,
-    "timeDay": 91,
-    "timeWeek": 85,
+    "timeDay": 108,
+    "timeWeek": 90,
     "timeMonth": 104,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -98,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 612,
-    "timeWeek": 558,
-    "timeMonth": 565,
+    "timeDay": 622,
+    "timeWeek": 567,
+    "timeMonth": 567,
     "timeYear": 618,
     "dailyMinutesDown": {}
   }

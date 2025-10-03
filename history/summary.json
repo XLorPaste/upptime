@@ -4,18 +4,20 @@
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/en.xlorpaste.cn.ico",
     "slug": "x-lor-paste-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 854,
-    "timeWeek": 689,
-    "timeMonth": 717,
+    "timeDay": 663,
+    "timeWeek": 662,
+    "timeMonth": 709,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "XLorPaste API",

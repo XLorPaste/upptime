@@ -6,18 +6,16 @@
     "slug": "x-lor-paste-en",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 669,
-    "timeWeek": 664,
+    "time": 685,
+    "timeDay": 592,
+    "timeWeek": 659,
     "timeMonth": 709,
     "timeYear": 689,
-    "dailyMinutesDown": {
-      "2025-10-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XLorPaste API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 1712,
-    "timeWeek": 450,
-    "timeMonth": 395,
-    "timeYear": 324,
+    "time": 281,
+    "timeDay": 1093,
+    "timeWeek": 580,
+    "timeMonth": 423,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 178,
-    "timeWeek": 117,
-    "timeMonth": 124,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 125,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
-    "timeDay": 349,
-    "timeWeek": 577,
-    "timeMonth": 676,
-    "timeYear": 654,
+    "timeDay": 480,
+    "timeWeek": 517,
+    "timeMonth": 666,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   }
 ]

@@ -4,71 +4,79 @@
     "url": "https://en.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/en.xlorpaste.cn.ico",
     "slug": "x-lor-paste-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 412,
-    "timeWeek": 810,
-    "timeMonth": 683,
-    "timeYear": 692,
-    "dailyMinutesDown": {}
+    "time": 687,
+    "timeDay": 436,
+    "timeWeek": 766,
+    "timeMonth": 677,
+    "timeYear": 691,
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   },
   {
     "name": "XLorPaste API",
     "url": "https://paste.onekuma.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.onekuma.cn.ico",
     "slug": "x-lor-paste-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 329,
-    "timeWeek": 345,
-    "timeMonth": 371,
-    "timeYear": 325,
-    "dailyMinutesDown": {}
+    "timeDay": 286,
+    "timeWeek": 332,
+    "timeMonth": 367,
+    "timeYear": 324,
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   },
   {
     "name": "XLorPaste View Code API",
     "url": "https://paste.onekuma.cn/towqab",
     "icon": "https://icons.duckduckgo.com/ip3/paste.onekuma.cn.ico",
     "slug": "x-lor-paste-view-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 82,
-    "timeWeek": 130,
-    "timeMonth": 117,
+    "timeDay": 49,
+    "timeWeek": 115,
+    "timeMonth": 114,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   },
   {
     "name": "AnimePaste",
     "url": "https://anime.xlorpaste.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/anime.xlorpaste.cn.ico",
     "slug": "anime-paste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
-    "timeDay": 637,
-    "timeWeek": 634,
-    "timeMonth": 605,
+    "timeDay": 616,
+    "timeWeek": 629,
+    "timeMonth": 604,
     "timeYear": 651,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   }
 ]

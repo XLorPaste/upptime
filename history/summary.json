@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
-    "time": 688,
-    "timeDay": 598,
-    "timeWeek": 680,
-    "timeMonth": 716,
+    "time": 689,
+    "timeDay": 752,
+    "timeWeek": 707,
+    "timeMonth": 720,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-10-22": 229
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.onekuma.cn.ico",
     "slug": "x-lor-paste-api",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
-    "time": 297,
-    "timeDay": 221,
-    "timeWeek": 265,
-    "timeMonth": 315,
+    "time": 298,
+    "timeDay": 301,
+    "timeWeek": 263,
+    "timeMonth": 319,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2025-10-22": 229
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
     "time": 125,
-    "timeDay": 119,
-    "timeWeek": 128,
-    "timeMonth": 118,
-    "timeYear": 110,
+    "timeDay": 192,
+    "timeWeek": 143,
+    "timeMonth": 122,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2025-10-22": 229
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
-    "time": 656,
-    "timeDay": 904,
-    "timeWeek": 770,
-    "timeMonth": 699,
-    "timeYear": 660,
+    "time": 657,
+    "timeDay": 757,
+    "timeWeek": 789,
+    "timeMonth": 695,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-10-22": 229
     }
